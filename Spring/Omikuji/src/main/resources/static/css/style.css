@@ -1,0 +1,18 @@
+@charset "UTF-8";
+.a{
+	display: flex;
+	flex-direction: column;
+}
+.b{
+	display: flex;
+	flex-direction: column;
+}
+.c{
+	position:absolute;
+	top: 10%;
+  	left: 50%;
+}
+.d{
+	display: flex;
+	flex-wrap:wrap;
+}
